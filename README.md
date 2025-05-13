@@ -41,11 +41,11 @@ To better understand pricing behavior, I visualized the distribution before and 
 
 **Before Filtering:**
 
-![Price Histogram - Full](images/price_hist_full.png)
+![Price Histogram - Full](price_hist_full.png)
 
 **After Filtering:**
 
-![Price Histogram - Filtered](images/price_hist_filtered.png)
+![Price Histogram - Filtered](price_hist_filtered.png)
 
 ---
 
@@ -53,7 +53,7 @@ To better understand pricing behavior, I visualized the distribution before and 
 
 A bar plot shows that "Entire home/apt" dominates the listing count, followed by "Private room".
 
-![Room Type Distribution](images/roomtype_distribution.png)
+![Room Type Distribution](roomtype_distribution.png)
 
 ---
 
@@ -61,7 +61,7 @@ A bar plot shows that "Entire home/apt" dominates the listing count, followed by
 
 A borough-level heatmap displays average listing prices, highlighting **Manhattan** as the most expensive location.
 
-![Borough Price Heatmap](images/borough_price_heatmap.png)
+![Borough Price Heatmap](borough_price_heatmap.png)
 
 ---
 
@@ -69,7 +69,7 @@ A borough-level heatmap displays average listing prices, highlighting **Manhatta
 
 I mapped latitude and longitude of listings across NYC to visualize dense hotspots. Manhattan and Brooklyn stand out as the most active regions.
 
-![Geographical Distribution](images/geo_distribution.png)
+![Geographical Distribution](geo_distribution.png)
 
 ---
 
@@ -77,7 +77,7 @@ I mapped latitude and longitude of listings across NYC to visualize dense hotspo
 
 Listings in high-demand areas like **Brooklyn** and **Manhattan** tend to receive more reviews per month, revealing demand hotspots.
 
-![Locality Review Dependency](images/locality_review_dependency.png)
+![Locality Review Dependency](locality_review_dependency.png)
 
 ---
 
@@ -85,7 +85,7 @@ Listings in high-demand areas like **Brooklyn** and **Manhattan** tend to receiv
 
 A **Seaborn pairplot** helps visualize interrelations between price, availability, and review counts. It reveals patterns and clusters among different room types.
 
-![Pairplot](images/pairplot.png)
+![Pairplot](pairplot.png)
 
 ---
 
