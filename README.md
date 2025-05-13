@@ -31,7 +31,7 @@ Welcome to an in-depth data analysis project where I dive into the vibrant world
 ### 💸 Price Outlier Detection
 Using a **boxplot**, I detected extreme price outliers. These typically represent luxury listings or data errors.
 
-![Price Outliers](images/boxplot_price.png)
+![Price Outliers](boxplot_price.png)
 
 ---
 
