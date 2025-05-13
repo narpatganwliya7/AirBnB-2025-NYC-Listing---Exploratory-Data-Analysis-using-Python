@@ -35,17 +35,14 @@ Using a **boxplot**, I detected extreme price outliers. These typically represen
 
 ---
 
-### 💵 Price Distribution: Before vs. After Filtering
+### 💵 Price Distribution: After Filtering
 
 To better understand pricing behavior, I visualized the distribution before and after excluding listings priced above $1500.
 
-**Before Filtering:**
-
-![Price Histogram - Full](price_hist_full.png)
 
 **After Filtering:**
 
-![Price Histogram - Filtered](price_hist_filtered.png)
+![Price boxplot - Filtered](price_hist_filtered.png)
 
 ---
 
